@@ -1,5 +1,9 @@
 # 모스랜드 BI(Brand Identity)
 
+> ℹ️ **이 문서는 2021년 3주년 BI 업데이트 안내(아카이브)입니다.** 모스랜드의 현재 브랜드 아이덴티티 — 다크 테마(`#0a0a0f`) · 그린 액센트, "Infrastructure for the AI Civilization" — 는 [moss.land](https://moss.land)를 참조하세요.
+>
+> This documents the **2021 brand identity refresh (archived)**. For Mossland's current identity, see [moss.land](https://moss.land).
+
 안녕하세요. 모스랜드입니다. 모스랜드의 BI(Brand Identity)가 업데이트되었습니다.
 
 2018년 시작한 모스랜드 프로젝트가 어느덧 3주년을 맞이하게 되었습니다. 그동안 변화된 주위 환경을 반영하고 모스랜드의 미래 모습을 담기 위하여 BI를 업데이트하게 되었습니다. 
@@ -8,6 +12,6 @@
 
 ![MOSSLAND_BI_Guideline_1_0](https://user-images.githubusercontent.com/109493423/196586501-c77038b3-61e0-484c-a00a-ef417f5e3d6f.png)
 
-- [google drive link](https://drive.google.com/drive/u/4/folders/1EJ5g8oWFjTUBFvlWgre8FyrAuVcvW-4N)
+- [google drive link](https://drive.google.com/drive/folders/1EJ5g8oWFjTUBFvlWgre8FyrAuVcvW-4N)
 
 감사합니다.
