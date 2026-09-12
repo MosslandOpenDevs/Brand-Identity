@@ -1,5 +1,9 @@
 # 모스랜드 BI(Brand Identity)
 
+<!-- opendevs-badges:start -->
+[![Repository: MosslandOpenDevs](https://img.shields.io/badge/Repository-MosslandOpenDevs-64748b?style=flat)](https://github.com/MosslandOpenDevs/Brand-Identity)
+<!-- opendevs-badges:end -->
+
 > ℹ️ **이 문서는 2021년 3주년 BI 업데이트 안내(아카이브)입니다.** 모스랜드의 현재 브랜드 아이덴티티 — 다크 테마(`#0a0a0f`) · 그린 액센트, "Infrastructure for the AI Civilization" — 는 [moss.land](https://moss.land)를 참조하세요.
 >
 > This documents the **2021 brand identity refresh (archived)**. For Mossland's current identity, see [moss.land](https://moss.land).
